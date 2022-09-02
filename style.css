@@ -9,7 +9,7 @@
 }
 
 .myself .value {
-    text-align: justify;
+    text-align: left;
     padding-left: 10px;
     width: 70%;
     display: inline-block;
