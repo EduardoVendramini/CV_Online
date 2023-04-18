@@ -15,3 +15,8 @@
     display: inline-block;
     box-sizing: border-box;
 }
+
+#signature-pic {
+    width: 150px; /* set the width of the image */
+    height: auto; /* set the height to auto to maintain aspect ratio */
+  }
