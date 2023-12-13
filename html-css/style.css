@@ -20,3 +20,12 @@
     width: 150px; /* set the width of the image */
     height: auto; /* set the height to auto to maintain aspect ratio */
   }
+
+.social-icons {
+    display: flex;
+}
+
+.social-icons a {
+    text-decoration: none;
+    margin-right: 5px;
+}
