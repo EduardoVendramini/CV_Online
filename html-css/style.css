@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-.myself .property {
+.column-layout .property {
     width: 30%;
     display: inline-block;
     box-sizing: border-box;
@@ -8,7 +8,7 @@
     vertical-align: top;
 }
 
-.myself .value {
+.column-layout .value {
     text-align: left;
     padding-left: 10px;
     width: 70%;
@@ -17,8 +17,8 @@
 }
 
 #signature-pic {
-    width: 150px; /* set the width of the image */
-    height: auto; /* set the height to auto to maintain aspect ratio */
+    width: 150px;
+    height: auto;
   }
 
 .social-icons {
@@ -28,4 +28,8 @@
 .social-icons a {
     text-decoration: none;
     margin-right: 5px;
+}
+
+.image {
+    width: 300px;
 }
