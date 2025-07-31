@@ -33,3 +33,24 @@
 .image {
     width: 300px;
 }
+
+.language-switch {
+  text-align: right;
+  margin: 10px;
+}
+
+.language-switch a {
+  margin-left: 10px;
+}
+
+.language-switch img {
+  width: 30px;
+  vertical-align: middle;
+  transition: transform 0.2s ease;
+  cursor: pointer;
+}
+
+.language-switch img:hover {
+  transform: scale(1.1);
+}
+
